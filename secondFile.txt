@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7489-C010
+
+ Directory of C:\Users\Owner\Documents\ChristianFirstRepo
+
+01/25/2018  10:21 PM    <DIR>          .
+01/25/2018  10:21 PM    <DIR>          ..
+01/25/2018  09:32 PM               366 readMe.txt
+01/25/2018  10:21 PM                 0 secondFile.txt
+               2 File(s)            366 bytes
+               2 Dir(s)  603,420,622,848 bytes free
